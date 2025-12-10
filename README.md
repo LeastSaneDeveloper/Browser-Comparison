@@ -35,6 +35,9 @@ List of browsers discussed in this project:
 
 Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It provides the codebase for the vast majority of web browsers, such as Google Chrome, Microsoft Edge, Samsung Internet, Opera, etc.
 
+- [Privacy](#privacy)
+- [Security](#security)
+
 ### Privacy
 
 Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/)
@@ -69,6 +72,9 @@ Chromium has a feature called [Safe Browsing](https://www.chromium.org/Home/chro
 
 Google Chrome is a cross-platform web browser developed by Google. It is based on Chromium, which is based on Blink. As of 2025, it is the most used browser globally, with a 70% market share.
 
+- [Privacy](#privacy-1)
+- [Security](#security-1)
+
 ### Privacy
 
 A [major class‑action lawsuit](https://www.macrumors.com/2020/06/03/lawsuit-google-chrome-tracking-incognito-users/) filed in 2020 accused Google of continuing to track users’ browsing activity even when they used Chrome’s Incognito mode, via tools like Google Analytics, Ad Manager, and related tracking utilities.
@@ -87,7 +93,7 @@ A jury recently ordered Google to pay approximately US$425 million for [illegall
 
 In 2025 Google settled a data‑privacy suit with the state of Texas Attorney General's Office for US$1.375 billion, because [Google secretly tracked](https://www.reuters.com/technology/texas-says-it-secures-138-billion-settlement-with-google-over-data-privacy-2025-05-09/) location history, biometric data, and Incognito-mode activity without proper user consent.
 
-See [Chromium's Privacy section.](#chromium)
+See [Chromium's Privacy section.](#privacy)
 
 **VERDICT** (Subjective): 0 Stars
 
@@ -97,6 +103,6 @@ Due to Google Chrome being the most widely used browser in the world, it is affe
 
 Google Chrome's mass-telemetry increases attack surface.
 
-See [Chromium's Security section.](#chromium)
+See [Chromium's Security section.](#security)
 
 **VERDICT** (Subjective): 4 stars ⭐️⭐️⭐️⭐️
