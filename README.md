@@ -37,7 +37,7 @@ Chromium is a free and open-source web browser project, primarily developed and 
 
 ### Privacy
 
-Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/)
+Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/) In addition, it also updates very frequently, helping its security.
 
 Chromium [does not partition cookies](https://privacytests.org) in a normal window across different sites, which enables unique, cross-site identifiers to be linked to you. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
 
@@ -52,6 +52,8 @@ Chromium provides no built-in way to spoof major fingerprinting vectors includin
 **VERDICT** (Subjective): 1 star ⭐️
 
 ### Security
+
+Chromium is developed very actively. With every few minutes, a new commit is pushed. 
 
 Chromium supports [site isolation](https://www.chromium.org/Home/chromium-security/site-isolation/), meaning each site runs in its own sandboxed rendering process. In general, Chromium browsers' site isolation is very mature, stable, and granular. You can read more about Chromium's security [here.](https://madaidans-insecurities.github.io/firefox-chromium.html)
 
