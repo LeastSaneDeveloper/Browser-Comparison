@@ -12,7 +12,7 @@ With the information in this project, (hopefully) you will be able to make an in
 
 Browsers are categorized based on their browser engine: Blink, Webkit, Gecko, and Goanna. That is, except for AI browsers, which will have its own section.
 
-Each browser will be judged based on their privacy, security, performance, and web compatibility. In the end, my subjective rating will be given, with a 5-star system in place.
+Each browser will be judged based on their privacy, security, performance, web compatibility, and their ecosystem. In the end, my subjective rating will be given, with a 5-star system in place.
 
 ## Index
 
