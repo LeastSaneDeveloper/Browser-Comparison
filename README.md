@@ -91,8 +91,6 @@ See [Chromium's Privacy section.](#chromium)
 
 ### Security
 
-**(IMPORTANT: REMEMBER THAT GOOGLE CHROME IS A CHROMIUM-BASED BROWSER. WHEN I MENTION CHROMIUM, NOTE THAT CHROMIUM'S FEATURES ALSO EXTEND TO GOOGLE CHROME.)**
-
 Due to Google Chrome being the most widely used browser in the world, it is affected by many [zero-day vulnerabilities.](https://en.wikipedia.org/wiki/Zero-day_vulnerability) Many bad actors specifically target it.
 
 Google Chrome's mass-telemetry increases attack surface.
