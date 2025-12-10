@@ -35,8 +35,6 @@ Google Chrome is a cross-platform web browser developed by Google. It is based o
 
 ### Privacy
 
-Although Google Chrome is the most used browser, it's definitely not the most privacy-respecting. Quite the contrary, in fact.
-
 A [major class‑action lawsuit](https://www.macrumors.com/2020/06/03/lawsuit-google-chrome-tracking-incognito-users/) filed in 2020 accused Google of continuing to track users’ browsing activity even when they used Chrome’s Incognito mode, via tools like Google Analytics, Ad Manager, and related tracking utilities.
 
 According to the complaint, Google’s representations (“You’ve gone Incognito,” “Now you can browse privately”) led many users to (very understandibly) expect that their web activity would not be sent to Google, but in practice [Chrome “continues to send the user’s browsing history and other data directly to Google’s servers” during Incognito sessions.](https://arstechnica.com/tech-policy/2024/01/chrome-updates-incognito-warning-to-admit-google-tracks-users-in-private-mode/)
@@ -61,6 +59,18 @@ Chrome also does not [remove tracking query parameters, even in Incognito Mode.]
 
 Google Chrome provides no built-in way to spoof major fingerprinting vectors including Canvas, WebGL, Font, and AudioContext fingerprinting. In general, Google Chrome has very little privacy settings.
 
-I think it's relatively safe to say that Google Chrome is very far from being privacy-oriented.
+**VERDICT** (Subjective): ⭐️
 
-**VERDICT**: ⭐️
+### Security
+
+**(IMPORTANT: REMEMBER THAT GOOGLE CHROME IS A CHROMIUM-BASED BROWSER. WHEN I MENTION CHROMIUM, NOTE THAT CHROMIUM'S FEATURES ALSO EXTEND TO GOOGLE CHROME.)**
+
+Due to Google Chrome being the most widely used browser in the world, it is affected by many [zero-day vulnerabilities.](https://en.wikipedia.org/wiki/Zero-day_vulnerability) Many bad actors specifically target it.
+
+As with all Chromium browsers, Chrome supports [site isolation](https://www.chromium.org/Home/chromium-security/site-isolation/), meaning each site runs in its own sandboxed rendering process. In general, Chromium browsers' site isolation is very mature, stable, and granular. You can read more about Chromium's security [here.](https://madaidans-insecurities.github.io/firefox-chromium.html)
+
+In addition, [Chromium browsers have ASLR (Address Space Layout Randomization), DEP (Data Execution Prevention), JIT hardening, SafeSEH,](https://www.chromium.org/Home/chromium-security/core-principles/) and other anti-exploit techniques.
+
+Google Chrome has a feature called [Safe Browsing](https://www.chromium.org/Home/chromium-security/enamel/), which identifies malicious and phishing sites. Moreover, it automatically blocks known malware downloads and warns about potentially dangerous files.
+
+[Chromium browsers have robust memory safety features](https://www.chromium.org/Home/chromium-security/memory-safety#what-were-trying), as approximately [70% of all browser vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety) are due to memory safety issues.
