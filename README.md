@@ -33,6 +33,8 @@ List of browsers discussed in this project:
 
 ## Chromium
 
+Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It provides the codebase for the vast majority of web browsers, such as Google Chrome, Microsoft Edge, Samsung Internet, Opera, etc.
+
 ### Privacy
 
 Chromium [does not partition cookies](https://privacytests.org) in a normal window across different sites, which enables unique, cross-site identifiers to be linked to you. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
