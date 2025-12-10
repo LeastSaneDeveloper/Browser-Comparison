@@ -16,6 +16,8 @@ Each browser will be judged based on their privacy, security, performance, and w
 
 ## Blink Browsers
 
+Blink is a browser engine developed as part of the free and open-source Chromium project. Blink is by far the most-used browser engine, due to the market share dominance of Google Chrome and the fact that many other browsers are based on the Chromium code.
+
 ## Google Chrome
 
 Google Chrome is a cross-platform web browser developed by Google. It is based on Chromium, which is based on Blink. As of 2025, it is the most used browser globally, with a 70% market share.
