@@ -47,7 +47,7 @@ As part of the settlement, Google also agreed to update the Incognito-mode start
 
 Although many browsers have moved to deprecate or block third‑party cookies (cookies set by domains other than the site you're visiting), Google has backtracked: in 2025 [Chrome announced it would not roll out a standalone prompt to phase out third‑party cookies](https://www.reuters.com/sustainability/boards-policy-regulation/google-opts-out-standalone-prompt-third-party-cookies-2025-04-22/), which basically meant these tracking techniques still remain for Google Chrome users.
 
-And it's not solely the browser. The entire business model for Chrome (and in whole, Google itself) depends on data collection and targeted advertising. Browsers that collect more user data produce more precise advertising profiles, which is [how Google makes money.](https://www.nasdaq.com/articles/how-much-does-google-make-ad-revenue) The fact that Google has very little privacy settings shows they just want their users to be their product.
+And it's not solely the browser. The entire business model for Chrome (and in whole, Google itself) depends on data collection and targeted advertising. Browsers that collect more user data produce more precise advertising profiles, which is [how Google makes money.](https://www.nasdaq.com/articles/how-much-does-google-make-ad-revenue) The fact that Google has very little privacy settings shows they don't want you to harden Chrome against data-collection, including theirs.
 
 A jury recently ordered Google to pay approximately US$425 million for [illegally collecting tens of thousands of users and devices' data](https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking), even after they disabled tracking settings.
 
