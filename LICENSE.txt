@@ -1,0 +1,15 @@
+Public Domain ShareAlike (PDSA) 1.0
+
+You are free to use, copy, modify, distribute, and perform the Work for any purpose,
+including commercial purposes, without providing attribution. You may incorporate the 
+Work into other projects or derivative works without restriction. 
+
+Any derivative work, adaptation, or redistribution of the Work must be licensed either under a permissive 
+Creative Commons license, such as CC BY, CC BY-SA, or CC0, or under any PDSA license. All derivative works 
+must remain open source, with the source code or editable form publicly available. No additional legal terms 
+or technological measures may be applied that would restrict others from exercising the rights granted under 
+this license. 
+
+The Work is provided “as-is,” without any warranty of any kind, express or implied, including but not limited
+to warranties of merchantability or fitness for a particular purpose. The authors are not liable for any claims,
+damages, or other liabilities arising from its use.
