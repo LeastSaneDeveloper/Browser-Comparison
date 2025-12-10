@@ -49,7 +49,7 @@ Chromium also does not [remove tracking query parameters, even in Incognito Mode
 
 Chromium provides no built-in way to spoof major fingerprinting vectors including Hardware metadata, screen resolution, Canvas, WebGL, Font, and AudioContext fingerprinting. In general, Chromium has very little privacy settings.
 
-**VERDICT**: 1 star ⭐️
+**VERDICT** (Subjective): 1 star ⭐️
 
 ### Security
 
