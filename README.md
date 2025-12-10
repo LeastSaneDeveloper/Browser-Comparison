@@ -53,7 +53,7 @@ A jury recently ordered Google to pay approximately US$425 million for [illegall
 
 In 2025 Google settled a data‑privacy suit with the state of Texas Attorney General's Office for US$1.375 billion, because [Google secretly tracked](https://www.reuters.com/technology/texas-says-it-secures-138-billion-settlement-with-google-over-data-privacy-2025-05-09/) location history, biometric data, and Incognito-mode activity without proper user consent.
 
-Google Chrome [does not partition cookies](https://privacytests.org) in a normal window across different sites. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
+Google Chrome [does not partition cookies](https://privacytests.org) in a normal window across different sites, which enables unique, cross-site identifiers to be linked to you. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
 
 Chrome also does not [remove tracking query parameters, even in Incognito Mode.](https://privacytests.org/private) Query parameters are information that is attached to an address. Tracking companies frequently add a tracking parameter to URLs in order to track you across sessions and sites.
 
