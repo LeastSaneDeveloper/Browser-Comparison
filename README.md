@@ -59,7 +59,7 @@ Chrome also does not [remove tracking query parameters, even in Incognito Mode.]
 
 Google Chrome provides no built-in way to spoof major fingerprinting vectors including Canvas, WebGL, Font, and AudioContext fingerprinting. In general, Google Chrome has very little privacy settings.
 
-**VERDICT** (Subjective): ⭐️
+**VERDICT** (Subjective): (No Stars)
 
 ### Security
 
@@ -74,3 +74,5 @@ In addition, [Chromium browsers have ASLR (Address Space Layout Randomization), 
 Google Chrome has a feature called [Safe Browsing](https://www.chromium.org/Home/chromium-security/enamel/), which identifies malicious and phishing sites. Moreover, it automatically blocks known malware downloads and warns about potentially dangerous files.
 
 [Chromium browsers have robust memory safety features](https://www.chromium.org/Home/chromium-security/memory-safety#what-were-trying), as approximately [70% of all browser vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety) are due to memory safety issues.
+
+**VERDICT** (Subjective): ⭐️⭐️⭐️⭐️
