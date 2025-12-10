@@ -71,7 +71,7 @@ A [major class‑action lawsuit](https://www.macrumors.com/2020/06/03/lawsuit-go
 
 According to the complaint, Google’s representations (“You’ve gone Incognito,” “Now you can browse privately”) led many users to (very understandibly) expect that their web activity would not be sent to Google, but in practice [Chrome “continues to send the user’s browsing history and other data directly to Google’s servers” during Incognito sessions.](https://arstechnica.com/tech-policy/2024/01/chrome-updates-incognito-warning-to-admit-google-tracks-users-in-private-mode/)
 
-In December 2023 Google agreed to settle the lawsuit and [committed to deleting “billions” of data records collected from users in Incognito mode.](https://time.com/6962521/google-incognito-lawsuit-data-settlement/).
+In December 2023 Google agreed to settle the lawsuit and [committed to deleting “billions” of data records collected from users in Incognito mode.](https://time.com/6962521/google-incognito-lawsuit-data-settlement/)
 
 As part of the settlement, Google also agreed to update the Incognito-mode startup screen (the “splash page”) to actually warn users that “data collected by websites and services they use (including Google)” might be unaffected by private browsing.
 
