@@ -37,6 +37,8 @@ Chromium is a free and open-source web browser project, primarily developed and 
 
 ### Privacy
 
+Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/)
+
 Chromium [does not partition cookies](https://privacytests.org) in a normal window across different sites, which enables unique, cross-site identifiers to be linked to you. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
 
 Chromium also does not [remove tracking query parameters, even in Incognito Mode.](https://privacytests.org/private) Query parameters are information that is attached to an address. Tracking companies frequently add a tracking parameter to URLs in order to track you across sessions and sites.
