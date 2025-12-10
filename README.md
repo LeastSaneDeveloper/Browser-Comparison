@@ -37,7 +37,7 @@ Chromium is a free and open-source web browser project, primarily developed and 
 
 ### Privacy
 
-Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/) In addition, it also updates very frequently, helping its security.
+Chromium [has some dependency on Google's services and binaries.](https://ungoogled-software.github.io/about/)
 
 Chromium [does not partition cookies](https://privacytests.org) in a normal window across different sites, which enables unique, cross-site identifiers to be linked to you. (NOTE: INCOGNITO MODE __DOES__ PARTITION COOKIES!)
 
@@ -53,7 +53,7 @@ Chromium provides no built-in way to spoof major fingerprinting vectors includin
 
 ### Security
 
-Chromium is developed very actively. With every few minutes, a new commit is pushed. 
+Chromium is developed very actively. With every few minutes, a new commit is pushed. In addition, it also updates very frequently.
 
 Chromium supports [site isolation](https://www.chromium.org/Home/chromium-security/site-isolation/), meaning each site runs in its own sandboxed rendering process. In general, Chromium browsers' site isolation is very mature, stable, and granular. You can read more about Chromium's security [here.](https://madaidans-insecurities.github.io/firefox-chromium.html)
 
@@ -93,7 +93,7 @@ See [Chromium's Privacy section.](#chromium)
 
 ### Security
 
-Due to Google Chrome being the most widely used browser in the world, it is affected by many [zero-day vulnerabilities.](https://en.wikipedia.org/wiki/Zero-day_vulnerability) Many bad actors specifically target it.
+Due to Google Chrome being the most widely used browser in the world, it is affected by many [zero-day vulnerabilities.](https://en.wikipedia.org/wiki/Zero-day_vulnerability) Many bad actors specifically target it. However, Google Chrome updates every week.
 
 Google Chrome's mass-telemetry increases attack surface.
 
