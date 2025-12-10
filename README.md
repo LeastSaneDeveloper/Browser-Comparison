@@ -14,9 +14,20 @@ Browsers are categorized based on their browser engine: Blink, Webkit, Gecko, an
 
 Each browser will be judged based on their privacy, security, performance, and web compatibility. In the end, my subjective rating will be given, with a 5-star system in place.
 
+## Index
+
+- [Introduction](#introduction)
+- [Overview](#overview)
+- [Index](#index)
+- [Blink Browsers](#blink-browsers)
+  * [Google Chrome](#google-chrome)
+
 ## Blink Browsers
 
 Blink is a browser engine developed as part of the free and open-source Chromium project. Blink is by far the most-used browser engine, due to the market share dominance of Google Chrome and the fact that many other browsers are based on the Chromium code.
+
+List of browsers discussed in this project:
+- [Google Chrome](#google-chrome)
 
 ## Google Chrome
 
