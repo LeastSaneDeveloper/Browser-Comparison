@@ -1,5 +1,7 @@
 # Browser Comparison
 
+**NOTE:** THIS PROJECT IS NOT COMPLETE YET.
+
 ## Introduction
 
 I made this repository to provide a comparison of modern browsers, evaluating them across multiple metrics including privacy, security, performance, and compatibility with modern web standards.
