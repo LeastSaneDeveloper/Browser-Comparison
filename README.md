@@ -105,4 +105,4 @@ Google Chrome's mass-telemetry increases attack surface.
 
 See [Chromium's Security section.](#security)
 
-**VERDICT** (Subjective): 4 stars ⭐️⭐️⭐️⭐️
+**VERDICT** (Subjective): 3.8 stars ⭐️⭐️⭐️⭐️
