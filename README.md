@@ -118,3 +118,9 @@ Google Chrome's mass-telemetry increases attack surface.
 See [Chromium's Security section.](#security)
 
 **VERDICT** (Subjective): 3.9 stars ⭐️⭐️⭐️⭐️
+
+### Performance
+
+Generally, Google Chrome is the fastest browser.
+
+See [Chromium's Performance section.](#performance)
