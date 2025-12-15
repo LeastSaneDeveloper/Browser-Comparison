@@ -6,6 +6,8 @@
 
 I made this repository to provide a comparison of modern browsers, evaluating them across multiple metrics including privacy, security, performance, compatibility with modern web standards, and their impact on the browser ecosystem.
 
+**NOTE**: All information gathered on the speed of the browsers is fragmented. It depends on many things, such as the hardware, OS, etc. Many niche-ish browsers in this list do not have enough data. That is why I decided not to include sources on their speeds.
+
 With the information in this project, (hopefully) you will be able to make an informed choice. The goal is not to find a single “best” browser, the goal is to find the one which suits your threat model.
 
 ## Overview
@@ -67,6 +69,16 @@ Chromium has a feature called [Safe Browsing](https://www.chromium.org/Home/chro
 [Chromium has robust memory safety features](https://www.chromium.org/Home/chromium-security/memory-safety#what-were-trying), as approximately [70% of all browser vulnerabilities](https://www.chromium.org/Home/chromium-security/memory-safety) are due to memory safety issues.
 
 **VERDICT** (Subjective): 4.4 stars ⭐️⭐️⭐️⭐️
+
+### Performance
+
+Generally, Chromium has around the same performance as Google Chrome/Microsoft Edge, albiet slightly behind, due to them including additional optimizations and proprietary patches.
+
+Generally, Chromium uses [slightly more memory](https://atlasbrowser.site/blog/chrome-vs-firefox-developers-2025/) than Gecko-based browsers.
+
+Chromium's V8 Javascript Engine compiles JavaScript directly into native machine code with a highly optimized pipeline (Ignition + TurboFan) and aggressive GC improvements. Generally, [V8 is the fastest Javascript Engine,](https://arewefastyet.com/win11/memory/Base%20Content%20JS?numDays=60) although it is mostly only noticable on Javascript-heavy sites.
+
+It indirectly benefits from the fact that, since most browsers are Chromium-based, that means many sites are made for Chromium, which boosts its optimizations.
 
 ## Google Chrome
 
