@@ -82,6 +82,16 @@ It indirectly benefits from the fact that, since most browsers are Chromium-base
 
 **VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
 
+### Web Compatibility
+
+Chromium is [the most compatible browser](https://html5test.co/results/desktop.html) for the modern web.
+
+Chromium is the upstream open‑source codebase for the vast majority of modern browsers (Google Chrome, Edge, Opera, Brave, and others). Because all of these major browsers share the codebasw, they are practically a baseline for compatible sites.
+
+Web developers generally target Chromium‑based browsers first because of their wide usage. (CITATION NEEDED)
+
+**VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
+
 ## Google Chrome
 
 Google Chrome is a cross-platform web browser developed by Google. It is based on Chromium, which is based on Blink. As of 2025, it is the most used browser globally, with a 70% market share.
@@ -126,5 +136,11 @@ See [Chromium's Security section.](#security)
 Generally, Google Chrome is the fastest browser.
 
 See [Chromium's Performance section.](#performance)
+
+**VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
+
+### Web Compatibility
+
+See [Chromium's Web Compatibility section.](#web-compatibility)
 
 **VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
