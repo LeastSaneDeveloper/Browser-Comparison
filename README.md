@@ -80,6 +80,8 @@ Chromium's V8 Javascript Engine compiles JavaScript directly into native machine
 
 It indirectly benefits from the fact that, since most browsers are Chromium-based, that means many sites are made for Chromium, which boosts its optimizations.
 
+**VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
+
 ## Google Chrome
 
 Google Chrome is a cross-platform web browser developed by Google. It is based on Chromium, which is based on Blink. As of 2025, it is the most used browser globally, with a 70% market share.
@@ -124,3 +126,5 @@ See [Chromium's Security section.](#security)
 Generally, Google Chrome is the fastest browser.
 
 See [Chromium's Performance section.](#performance)
+
+**VERDICT** (Subjective): 5 stars ⭐️⭐️⭐️⭐️⭐️
