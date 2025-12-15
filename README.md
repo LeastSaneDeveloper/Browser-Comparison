@@ -86,7 +86,7 @@ It indirectly benefits from the fact that, since most browsers are Chromium-base
 
 Chromium is [the most compatible browser](https://html5test.co/results/desktop.html) for the modern web.
 
-Chromium is the upstream open‑source codebase for the vast majority of modern browsers (Google Chrome, Edge, Opera, Brave, and others). Because all of these major browsers share the codebasw, they are practically a baseline for compatible sites.
+Chromium is the upstream open‑source codebase for [the vast majority of modern browsers](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) (Google Chrome, Edge, Opera, Brave, and others). Because all of these major browsers share the codebasw, they are practically a baseline for compatible sites.
 
 Web developers generally target Chromium‑based browsers first because of their wide usage. (CITATION NEEDED)
 
