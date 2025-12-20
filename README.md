@@ -6,13 +6,13 @@
 
 I made this repository to provide a comparison of modern browsers, evaluating them across multiple metrics including privacy, security, performance, compatibility with modern web standards, and their impact on the browser ecosystem.
 
-**NOTE**: All information gathered on the speed of the browsers is fragmented. It depends on many things, such as the hardware, OS, etc. Many niche-ish browsers in this list do not have enough data. That is why I decided not to include sources on their speeds.
+**NOTE**: All information gathered on the speed of the browsers is fragmented. It depends on many things, such as the hardware, OS, etc. Many niche browsers in this list do not have enough data. That is why I decided not to include sources on their speeds.
 
-With the information in this project, (hopefully) you will be able to make an informed choice. The goal is not to find a single “best” browser, the goal is to find the one which suits your threat model.
+With the information in this project, you will hopefully be able to make an informed choice. The goal is not to find a single “best” browser - the goal is to find the one which suits your threat model.
 
 ## Overview
 
-Browsers are categorized based on their browser engine: Blink, Webkit, Gecko, and Goanna. That is, except for AI browsers, which will have its own section.
+Browsers are categorized based on their browser engine: Blink, Webkit, Gecko, and Goanna. "AI Browsers" will have its own section.
 
 Each browser will be judged based on their privacy, security, performance, web compatibility, and their impact on the browser ecosystem. In the end, my subjective rating will be given, with a 5-star system in place.
 
